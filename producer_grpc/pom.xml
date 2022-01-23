@@ -27,12 +27,12 @@
 		<dependency>
 			<groupId>com.google.protobuf</groupId>
 			<artifactId>protobuf-java</artifactId>
-			<version>3.18.1</version>
+			<version>3.19.1</version>
 		</dependency>
 		<dependency>
 			<groupId>com.squareup.okhttp3</groupId>
 			<artifactId>okhttp</artifactId>
-			<version>4.9.2</version>
+			<version>4.9.3</version>
 		</dependency>
 		<dependency>
 			<groupId>com.asarkar.grpc</groupId>
@@ -57,7 +57,7 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>11</java.version>
 		<spring-cloud.version>2021.0.0-SNAPSHOT</spring-cloud.version>
-		<spring-cloud-contract.version>3.1.0-SNAPSHOT</spring-cloud-contract.version>
+		<spring-cloud-contract.version>3.1.1-SNAPSHOT</spring-cloud-contract.version>
 	</properties>
 	<build>
 		<extensions>
